@@ -1,2 +1,2 @@
 # hummuscript
-hebrew programming language compiled to coffeescript
+hebrew programming language compiled to javascript
